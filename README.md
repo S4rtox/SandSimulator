@@ -1,18 +1,7 @@
-## Getting Started
+## What is this?
+A really rudementary sand simulator in java, or particle simulator. Really basic stuff, did it for learning purposes.
+**Currently not functional, as I'm in the process of doing some changes to the way I handle each particle.**
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
-
-## Folder Structure
-
-The workspace contains two folders by default, where:
-
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
-
-## Dependency Management
-
-The `JAVA PROJECTS` view allows you to manage your dependencies. More details can be found [here](https://github.com/microsoft/vscode-java-dependency#manage-dependencies).
+## Is this useful?
+No, Its a project I make for learning purposes, so expect it to be really bad. Made it public for portafolio purposes only.
+Feel free to take anything from my ~~really bad~~ code.
